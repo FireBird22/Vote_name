@@ -17,4 +17,4 @@
 2. Don't save configs with the "Enable Troll-Name" checkbox enabled.
 3. Unchecking the "Enable Troll-Name" Reverts your name back to the original value.
 4. All menu elements are located in the "LUA" tab under the sub-tab "A".
-5. For console values, "r_eyegloss" is for Ban-name and "r_eyemove" is for Vote-nam
+5. For console values, "r_eyegloss" is for Ban-name and "r_eyemove" is for Vote-name.
